@@ -36,9 +36,8 @@
         "50a3f7d4cd509ba6be10eb93c4f9698230ade87d"
       ]
     }
-    // Add more libraries as needed
   ],
-  "mainClass": “minecraft.Start”,
+  "mainClass": “xdolf-master.minecraft.Start”,
   "minimumLauncherVersion": 21,
   "releaseTime": "2017-09-18T14:33:59+00:00",
   "time": "2017-09-18T14:33:59+00:00",
